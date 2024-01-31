@@ -9,3 +9,5 @@ const calculateBonus =   (a, b) => {
 };
 
 calculateBonus(1,2) // вызвал функцию, потому что без передачи в неё аргументов логично в тело функции не попадал
+
+module.exports = calculateBonus;
