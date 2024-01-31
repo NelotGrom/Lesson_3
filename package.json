@@ -1,0 +1,14 @@
+{
+  "name": "lesson_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scope-task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KK",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
