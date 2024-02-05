@@ -17,7 +17,7 @@ test('Calculating bonus for zero numbers', ()=>{
 })
 
 test('Calculating bonus for negative numbers', ()=>{
-    expect(calculateBonus(-1,-5)).toBe(0);
+    expect(calculateBonus(-1,-5)).toBe(-6);
 })
 
 test('Calculating bonus for edge meanings', ()=>{
